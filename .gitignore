@@ -1,5 +1,4 @@
 # Arquivos de configuração do docker
-# Dockerfile
-# docker-compose.yml
-# .dockerignore
-# .docker-compose.override.yml
+node_modules
+.git
+
