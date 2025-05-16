@@ -1,0 +1,26 @@
+{
+  "name": "docker-2025",
+  "version": "1.0.0",
+  "description": "* Livro Indicado \"Descomplicando o Docker\"\r * docker run -it ubuntu  \"Exemplo de rodar o container\"\r * docker ps -a \"Ver os container já executados\"\r * docker run -d nginx \r * docker run -d -p 80:80 nginx \"Expondo a porta\"\r * docker stop + numero do ID do container",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaiastech/docker-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaiastech/docker-2025/issues"
+  },
+  "homepage": "https://github.com/isaiastech/docker-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
